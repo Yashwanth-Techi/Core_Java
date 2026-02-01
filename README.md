@@ -23,6 +23,8 @@ JDK (Java Development Kit)
 Any IDE (Eclipse / IntelliJ / VS Code)
 
 📚 Core Java Topics Covered
+
+
 🔹 Basics
 
 Introduction to Computers
@@ -122,7 +124,7 @@ Interview-ready Java fundamentals..!
 
 👤 Author
 
-Your Name
+Yashwanth G M
 
 Core Java Learning Repository
 
